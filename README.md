@@ -1,0 +1,1 @@
+A toy implementation of a linked list, regarding its catamorphism (fold) as the primitive data.
